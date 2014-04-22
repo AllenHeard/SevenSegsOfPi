@@ -1,7 +1,7 @@
-#Seven Segsments Of Pi
+#Seven Segments Of Pi
 
 #Introduction
-This set of four lessons introduces pupils to the Seven Segments of Pi device. Students will complete individual taks that all build up to a final project.
+This set of four lessons introduces pupils to the Seven Segments of Pi device. Students will complete individual tasks that all build up to a final project.
 
 ##Computing Programme of Study Met 
 **KS2**
