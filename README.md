@@ -15,8 +15,7 @@ For this series of lessons, all sounds, code, and videos required are linked in 
  - [Lesson 2]()
  - [Lesson 3]()
  - [Lesson 4]()
- - [Lesson 5]()
- - [Lesson 6]()
+ - [Final Project]()
 
 # Licence
 
